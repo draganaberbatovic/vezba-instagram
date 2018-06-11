@@ -88,9 +88,12 @@ body {
   background-color: white;
 }
 .DownloadApp {
+  width: 268px; /* imitiram sirinu */
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
+}
+.DownloadApp img {
+  width: 49%;
 }
 .footer nav a {
   color: #003569;
