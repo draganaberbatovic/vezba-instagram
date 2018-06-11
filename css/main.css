@@ -87,6 +87,11 @@ body {
   font-size: 13px;
   background-color: white;
 }
+.DownloadApp {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
 .footer nav a {
   color: #003569;
   text-decoration: none;
